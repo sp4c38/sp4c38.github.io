@@ -8,3 +8,7 @@ David Ryan is one of the main characters of the fictional book Singularity. The 
 * Work project: ELOPe (E-Mail Language Optimization Project)
 * Favourite drink: coffee
 * Best friend: Mike Williams
+
+### Favourite quote:
+David Ryan after ELOPe gets out of control:
+> ELOPe, das Computerprogramm, das auf und davon ging.
