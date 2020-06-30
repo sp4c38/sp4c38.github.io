@@ -1,3 +1,5 @@
+### <p style="color:red">!!! Note: This is a page which was created during a git course.</p>
+
 # David Ryan
 
 David Ryan is one of the main characters of the fictional book Singularity. The story is split up in four different volumes. It was writen by William Hertling. In the story David develops a e-mail language optimization tool (ELOPe) together with Mike Williams. ELOPe uses Artifical Intelligence and later evolves to a own life form which isn't controllable anymore.
