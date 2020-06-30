@@ -1,4 +1,4 @@
-### <p style="color:red">!!! Note: This is a page which was created during a git course.</p>
+### !!! Note: This is a page which was created during a git course.
 
 # David Ryan
 
