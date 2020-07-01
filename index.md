@@ -1,4 +1,4 @@
-#### ! Note: This is a page which was created during a git course.
+#### ! Note: This is momentarily a page which was created during a git course from OpenHPI.
 
 # David Ryan
 
