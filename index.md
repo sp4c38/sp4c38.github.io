@@ -15,4 +15,7 @@ David Ryan is one of the main characters of the fictional book Singularity. The 
 David Ryan after ELOPe gets out of control:
 > ELOPe, das Computerprogramm, das auf und davon ging.
 
+### Check it out
+If you like sci-fi books I can just recommend reading the series. The stories are also very interesting and it doesn't get boring.
+
 <img src="https://www.kurzweilai.net/images/avogadrocorpcr1.png">
