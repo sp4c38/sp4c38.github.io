@@ -18,4 +18,4 @@ David Ryan after ELOPe gets out of control:
 ### Check it out
 If you like sci-fi books I can just recommend reading the series. The stories are also very interesting and it doesn't get boring.
 
-<img src="https://www.kurzweilai.net/images/avogadrocorpcr1.png">
+<img style="display:block; margin-right:auto; margin-left:auto; width:40%" src="https://www.kurzweilai.net/images/avogadrocorpcr1.png">
